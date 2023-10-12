@@ -1,4 +1,4 @@
 # cms-based-on-symfony
 I built a cms (wordpress like) with symfony
 
-Gitlab Link: https://gitlab.com/axel.raboit/le-corrigot
+The project is on my Gitlab account: https://gitlab.com/axel.raboit/le-corrigot
